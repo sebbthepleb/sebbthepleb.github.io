@@ -1,0 +1,77 @@
+body,html {
+  height: 100%;
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  font-weight: bold;
+  overscroll-behavior: none;
+  background: #000000;
+}
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+  vertical-align: middle;
+  font-weight: 700;
+  
+  height: 200px;
+  width: 400px;
+  
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -200px;
+  
+  font-size: 100px;
+}
+
+p {
+    height: 200px;
+    width: 400px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+
+.nand {
+    color: #ffffff;
+
+    position: fixed;
+    top: 55%;
+    left: 67%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+
+.keys {
+    color: #ffffff;
+
+    position: fixed;
+    top: 60%;
+    left: 67%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+
+.wii-image {
+  width: 512px;
+  height: 512px;
+  
+  position: fixed;
+  top: 37%;
+  left: 35%;
+  margin-top: -100px;
+  margin-left: -200px;
+}
+
+.box {
+  background-color: #ffffff;
+  color: #ffffff;
+  
+  height: 100%;
+  width: 100px;
+  margin-left: 20%;
+}
