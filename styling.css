@@ -4,7 +4,9 @@ body,html {
   font-family: system-ui, sans-serif;
   font-weight: bold;
   overscroll-behavior: none;
-  background: #000000;
+
+  background: rgb(79,70,229);
+  background: linear-gradient(145deg, rgba(79,70,229,1) 0%, rgba(128,139,248,1) 100%);
 }
 
 h1 {
@@ -74,4 +76,9 @@ p {
   height: 100%;
   width: 100px;
   margin-left: 20%;
+}
+
+.img-responsive {
+  display: block;
+  height: 8.3vh;
 }
