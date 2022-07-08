@@ -1,9 +1,10 @@
 body {
   margin: 0;
   padding: 0;
-  background: url(assets/bg.png) no-repeat;
+  background: url(assets/alt-bg.png) no-repeat;
   background-size: cover;
 }
+//bg.png, alt-bg.png, alt-bg2.png, alt-bg3.png
 
 .box {
   width: 450px;
