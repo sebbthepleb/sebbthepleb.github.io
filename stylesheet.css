@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: url(assets/alt-bg.png) no-repeat;
+  background: url(assets/alt-bg3.JPG) no-repeat;
   background-size: cover;
 }
 /* bg.png, alt-bg.png, alt-bg2.png, alt-bg3.png */
@@ -38,6 +38,10 @@ body {
 .box p {
   text-align: justify;
   text-align: center;
+}
+
+.box a {
+  color: #ffffff;
 }
 
 ul {
