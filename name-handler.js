@@ -8,9 +8,9 @@ function nameSwap() {
   
   if (document.getElementById("pfp").src.endsWith('assets/vee.png') == true)
     { 
-      document.getElementById("pfp").src = "assets/veebigen.png";
+      document.getElementById("pfp").src = "assets/veebigen.jpg";
     } 
-  else if (document.getElementById("pfp").src.endsWith('assets/veebigen.png') == true) 
+  else if (document.getElementById("pfp").src.endsWith('assets/veebigen.jpg') == true) 
     { 
       document.getElementById("pfp").src = "assets/vee.png"; 
     }
