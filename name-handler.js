@@ -6,13 +6,13 @@ function nameSwap() {
       x.innerHTML = "Seb";
     }
   
-  if (document.getElementById("pfp").src.endsWith('assets/profile.png') == true)
+  if (document.getElementById("pfp").src.endsWith('assets/vee.png') == true)
     { 
-      document.getElementById("pfp").src = "assets/lgbt-profile.png";
+      document.getElementById("pfp").src = "assets/veebigen.png";
     } 
-  else if (document.getElementById("pfp").src.endsWith('assets/lgbt-profile.png') == true) 
+  else if (document.getElementById("pfp").src.endsWith('assets/veebigen.png') == true) 
     { 
-      document.getElementById("pfp").src = "assets/profile.png"; 
+      document.getElementById("pfp").src = "assets/vee.png"; 
     }
   
   if (document.title === "Seb")
