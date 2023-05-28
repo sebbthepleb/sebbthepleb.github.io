@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background: url(assets/alt-bg3.JPG) no-repeat;
-  background-size: contain;
+  background-size: auto;
 }
 /* all backgrounds: bg.png, alt-bg2.JPG, alt-bg3.JPG, mun.png */
 
